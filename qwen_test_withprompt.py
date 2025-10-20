@@ -13,7 +13,7 @@ import shutil
 from datetime import datetime
 
 # Qwen API configuration
-API_KEY = "sk-c08fe5d86cd048bda352ed7aed6168cb"  # Replace with your actual API key
+API_KEY = " "  # Replace with your actual API key
 BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"  # Qwen API base URL
 
 # Configure the OpenAI client for Qwen
